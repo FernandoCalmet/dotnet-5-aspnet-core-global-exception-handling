@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQCe1A+yKnt933p9x0p9i3uz6hSq5qoHiOwoH4A4ImdzUtXJxNJDPmyJ4GQOczeNsc5Gt2ck61w2X78MJbVPjw==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Global-Exception-Handling\\GlobalExceptionHandling.WebAPI\\GlobalExceptionHandling.WebAPI\\GlobalExceptionHandling.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I7\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
