@@ -28,7 +28,7 @@ Este proyecto es una muestra de una aplicación web API que implementa el manejo
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-Global-Exception-Handling
+gh repo clone FernandoCalmet/dotnet-5-aspnet-core-global-exception-handling
 ```
 
 Ejecutar aplicación.
